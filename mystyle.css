@@ -1,10 +1,10 @@
-.body{
-    background-color: rgb(159, 7, 7);
+body{
+    background-color: rgb(255, 255, 255);
 }
 .header {
 padding: 50px;
 text-align: center;
-background-color: #ffffff;
+background-color: #dfcad7;
 color: #000000;
  }
  
@@ -17,7 +17,7 @@ input[type=text], input[type=password] {
   padding: 15px;
   margin: 5px 0 22px 0;
   display: inline-block;
-  border: gray;
+  border: none;
   background: #fdfdfd;
  
 }
@@ -72,15 +72,9 @@ padding{padding-bottom: 20px;}
 .divbox1{  
   height: 950px;
   width: 600px; 
-  background-color:rgb(216, 208, 216);
+  background-color:rgb(255, 255, 255);
 padding-left: 10px;} 
 
-.divbox2{
-  height: 650px;
-  width: 600px;
-  background-color: rgb(216, 208, 216);
-  padding-left: 10px;
-}
   .divola{
   display: flex;
   justify-content:space-between;
@@ -106,7 +100,7 @@ padding-left: 10px;}
       left: 0;
       bottom: 0;
       width: 100%;
-       background-color: #000000; 
+       background-color: #dbc1d7; 
       color: rgb(255, 246, 246);
       text-align: center;
    } 
@@ -123,19 +117,19 @@ padding-left: 10px;}
    }
 .fa-facebook { 
          
-         color: rgb(82, 79, 79);
+         color: rgb(0, 0, 0);
        }
      .fa-twitter{
          
-         color: rgb(86, 83, 83);
+         color: rgb(0, 0, 0);
        }
    .fa-instagram{
        
-       color: rgb(99, 95, 95);}
+       color: rgb(0, 0, 0);}
        
    .fa-youtube{
     
-    color: rgb(127, 122, 122);
+    color: rgb(0, 0, 0);
        }
 
 ul { 
@@ -200,7 +194,7 @@ body {
 
 
    .fa-facebook { 
-   color: #575454;
+   color: #000;
       }
   
       .card {
@@ -214,10 +208,6 @@ body {
  li a:hover {
   background-color: #f5f5f5;
 
-}
-.content{
-  text-align: center;
-  padding-top: 25%;
 }
 
  
